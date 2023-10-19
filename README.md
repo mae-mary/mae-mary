@@ -1,11 +1,8 @@
-![footer](https://capsule-render.vercel.app/api?section=header&text=mary&fontSize=40&fontAlign=90&fontAlignY=30&color=0:92fe9d,100:00c9ff&animation=twinkling&type=waving)
+![header](https://capsule-render.vercel.app/api?section=header&text=Mary&fontSize=38&fontAlign=90&fontAlignY=30&color=0:aeaeae,100:c9509a&animation=twinkling&type=waving)
 
 <div align="center">
-Hi, I'm Mary. 👋
+<p>Hi, I'm Mary 👋</p>
 
-<br />
-<br />
-
-I’m currently learning Java.
+<p>I'm currently immersed in studying Java 💭💭</p>
 
 </div>
